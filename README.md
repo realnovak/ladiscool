@@ -12,6 +12,11 @@ I am a 16 year old developer who likes writing small, simple and elegant softwar
 
 - C++ 🌀
 
+### Operating Systems I Use:
+
+- Linux 🐧
+- Windows 🔷
+
 ## Social Media
 
 - Discord: **novak#5712**
