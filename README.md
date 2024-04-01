@@ -1,5 +1,5 @@
 <h1 align="center">About me 🦅</h1>
-I am a 16 year old developer who likes writing small, simple and elegant softwares.
+I am a 17 year old developer who likes writing small, simple and elegant softwares.
 
 ## Info
 
@@ -7,10 +7,12 @@ I am a 16 year old developer who likes writing small, simple and elegant softwar
 
 - Python 🐍
 - Golang 🐦
+- C# 🌀
+- Mojo 🔥
 
 ### Languages I am learning:
 
-- C# 🌀
+- C ⚡
 
 ### Operating Systems I use:
 
@@ -19,4 +21,4 @@ I am a 16 year old developer who likes writing small, simple and elegant softwar
 
 ## Social Media
 
-- Discord: **@original.lad**
+- Discord: **@realnovak**
